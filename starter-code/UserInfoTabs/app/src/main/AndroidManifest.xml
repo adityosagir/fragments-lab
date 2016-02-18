@@ -15,6 +15,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".PersonalFragment" />
+        <activity android:name=".AboutMeFragment" />
+        <activity android:name=".ContactFragment" />
+        <activity android:name=".PictureFragment" />
+        <activity android:name=".RandomFragment"></activity>
     </application>
 
 </manifest>
